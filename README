@@ -1,0 +1,5 @@
+Checking your phone number
+1. CheckTelNumber should return the boolean class value.
+2. CheckTelNumber method should be public.
+3. CheckTelNumber should accept one String option.
+4. CheckTelNumber should correctly check the validity of the phone number transmitted to it as a parameter.
